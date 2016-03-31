@@ -1,0 +1,27 @@
+{
+  "name": "semi-sync",
+  "version": "1.0.0",
+  "description": "According to the limit you define sends semi-synchronous requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endrcn/semi-sync.git"
+  },
+  "keywords": [
+    "semi-sync",
+    "request"
+  ],
+  "author": "endrcn <endercan34@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endrcn/semi-sync/issues"
+  },
+  "homepage": "https://github.com/endrcn/semi-sync#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "request": "^2.69.0"
+  }
+}
